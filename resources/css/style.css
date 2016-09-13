@@ -1,3 +1,101 @@
+/*Colors:
+#2B4C6F
+#4A6B8A
+#738CA6
+*/
+
 *{
-	border: 1px solid black;
+	
 }
+
+header{
+	background-color: rgba( 74,107,138,.65);
+}
+
+footer, .menu, .content{
+	background-color:rgba(74,107,138,1);
+}
+
+.list-no-style{
+	list-style: none;
+}
+
+.list-no-margin{
+	margin: 0px;
+}
+
+.list-no-padding{
+	padding: 0px;
+}
+
+.social{
+	float: right;
+	font-size: 1.5em;
+}
+
+.social li{
+	display: inline;
+}
+
+.menu{
+	padding-left: 1em;
+}
+
+.menu li{
+	display: inline;
+}
+
+
+/*Grid*/
+/*
+[class*="col-"], .row{
+	float: left;
+}
+
+.col-12, .row{
+	width:100%;
+}
+
+.col-11{
+	width: 91.63%;
+}
+
+.col-10{
+	width: 83.3%;
+}
+
+.col-9{
+	width: 74.97%;
+}
+
+.col-8{
+	width: 66.64%;
+}
+
+.col-7{
+	width: 58.31%;
+}
+
+.col-6{
+	width: 50%;
+}
+
+.col-5{
+	width: 41.67%;
+}
+
+.col-4{
+	width: 33.34%;
+}
+
+.col-3{
+	width: 25.01%;
+}
+
+.col-2{
+	width: 16.68%;
+}
+
+.col-1{
+	width: 8.33%;
+}*/
